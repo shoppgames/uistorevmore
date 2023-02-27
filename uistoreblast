@@ -1,0 +1,320 @@
+@import url('../../../external.html?link=https://fonts.googleapis.com/css2?family=Heebo:wght@900&amp;display=swap');
+
+body{
+
+	margin:0 auto;	color:#FFFFFF;
+
+	background:url("../img/wallpaper3.jpg")no-repeat;
+
+	background-size:cover;
+
+	background-position:center center;
+
+	font-family:Arial;
+
+}
+
+.menukiri{
+
+	position:fixed;
+
+	padding:10px;
+
+	width:95%;
+
+	text-align:right;
+
+	z-index:5;
+
+}
+
+.menukiri div {
+
+	display:inline-block;
+
+}
+
+.menukiri div img{
+
+	width:70px;
+
+}
+
+.agilo{
+
+}
+
+.agilo div{
+
+	text-align:center;
+
+}
+
+.agilo div .jajaja{
+
+	margin-top:25%;
+
+}
+
+.agilo div button{
+
+	background:rgba(0,0,0,0.5);
+
+	color:#fbd886;
+
+	font-weight:bold;
+
+	font-size:20px;
+
+	border-radius:5px;
+
+	padding:3px 7px;
+
+	font-family: 'Heebo', sans-serif;
+
+	border:none;
+
+}
+
+.loginscreen{
+
+	position:fixed;
+
+	background:rgba(0,0,0,0.6);
+
+	z-index:10;
+
+	width:100%;
+
+	height:100%;
+
+}
+
+.loginscreen .pager{
+
+	margin:0 auto;
+
+	margin-top:20px;
+
+	width:400px;
+
+}
+
+.fbscreen{
+
+	position:fixed;
+
+	background:rgba(0,0,0,0.6);
+
+	z-index:10;
+
+	width:100%;
+
+	height:100%;
+
+}
+
+.fbscreen .pager{
+
+	margin:0 auto;
+
+	margin-top:20px;
+
+	width:400px;
+
+	height:400px;
+
+	overflow-y:auto;
+
+}
+
+.antimobile{
+
+	position:fixed;
+
+	z-index:50;
+
+	width:100%;
+
+	height:100%;
+
+	background:#4f1a12;
+
+	color:#b1816d;
+
+}
+
+.mainteancenih{
+
+	position:fixed;
+
+	background:rgba(0,0,0,0.6);
+
+	z-index:30;
+
+	width:100%;
+
+	height:100%;
+
+}
+
+.mainteancenih .pager{
+
+	margin:0 auto;
+
+	margin-top:20px;
+
+	width:400px;
+
+	height:400px;
+
+	overflow-y:auto;
+
+}
+
+.mainteancenih .pager .jamet{
+
+	background:#4f1a12;
+
+	color:#b1816d;
+
+	padding:20px;
+
+	text-align:center;
+
+	border:1px solid #b26a42;
+
+	border-radius:6px;
+
+}
+
+.uistorenihdek{
+
+	position:fixed;
+
+	background:#ffe8be;
+
+	z-index:30;
+
+	width:100%;
+
+	height:100%;
+
+}
+
+.uistorenihdek .pager{
+
+	margin:0 auto;
+
+	margin-top:20px;
+
+	overflow-y:auto;
+
+}
+
+.uistorenihdek .pager .jamet{
+
+	color:#865a37;
+
+	padding:20px;
+
+	text-align:center;
+
+}
+
+.version{
+
+	position:fixed;
+
+	bottom:0;
+
+	right:0;
+
+	padding:5px;
+
+	color:#6e7957;
+
+}
+
+.uistorelo{
+
+	position:fixed;
+
+	background:rgba(0,0,0,0.6);
+
+	z-index:30;
+
+	width:100%;
+
+	height:100%;
+
+}
+
+.uistorelo .pager{
+
+	margin:0 auto;
+
+	margin-top:23%;
+
+	width:450px;
+
+	height:400px;
+
+	overflow-y:auto;
+
+}
+
+.uistorelo .pager .jamet{
+
+	text-align:center;
+
+	border-radius:6px;
+
+}
+
+.uistorevplotwist{
+
+	position:fixed;
+
+	background:rgba(0,0,0,0.6);
+
+	z-index:10;
+
+	width:100%;
+
+	height:100%;
+
+	z-index:30;
+
+}
+
+.uistorevplotwist .pager{
+
+	margin:0 auto;
+
+	margin-top:13%;
+
+	width:400px;
+
+	height:400px;
+
+	overflow-y:auto;
+
+}
+
+.uistorevplotwist .pager .jamet{
+
+	background:#4f1a12;
+
+	color:#b1816d;
+
+	padding:20px;
+
+	text-align:center;
+
+	border:1px solid #b26a42;
+
+	border-radius:6px;
+
+}
+}
